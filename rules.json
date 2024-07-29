@@ -1,0 +1,13 @@
+[
+    {
+        "predicate": "All",
+        "conditions": [
+            {"field": "From", "predicate": "Contains", "value": "thehustlingengineer@substack.com"},
+            {"field": "Subject", "predicate": "Contains", "value": "From Staff Engineer at Meta"}
+        ],
+        "actions": [
+            {"action": "Mark as read"},
+            {"action": "Move Message", "label_id": "CATEGORY_SOCIAL"}
+        ]
+    }
+]
