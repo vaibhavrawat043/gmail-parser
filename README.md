@@ -13,8 +13,8 @@ This project is a standalone Python script that integrates with the Gmail API to
 
 1. **Clone the repository** (if applicable):
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/vaibhavrawat043/gmail-parser.git
+    cd email-parser
     ```
 
 2. **Create a virtual environment (optional but recommended)**:
